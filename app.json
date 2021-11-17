@@ -5,9 +5,9 @@
   "keywords": [
     "Telegram","Assitant Bot"
   ],
-  "repository": "https://github.com/sanila2007/Sanila-Ranatunga-s-Assistant-Bot",
+  "repository": "https://github.com/sanila2007/Sanila-Ranatunga-Assistant-Bot",
   "success_url": "https://t.me/sanilaassistant_bot",
-  "website": "https://github.com/sanila2007/Sanila-Ranatunga-s-Assistant-Bot",
+  "website": "https://github.com/sanila2007/Sanila-Ranatunga-Assistant-Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
