@@ -1,13 +1,13 @@
 {
-  "name": "Chat Bot",
-  "description": "A telegram Powerful Chat Bot ",
+  "name": "Sanila's Assistant Bot",
+  "description": "A telegram Powerful assitant bot ",
   "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
   "keywords": [
-    "Telegram","Chat Bot"
+    "Telegram","Assitant Bot"
   ],
-  "repository": "https://github.com/sanila2007/Chat-Bot",
-  "success_url": "https://t.me/useful_powerful_chat_bot",
-  "website": "https://github.com/sanila2007/Chat-Bot",
+  "repository": "https://github.com/sanila2007/Sanila-Ranatunga-s-Assistant-Bot",
+  "success_url": "https://t.me/sanilaassistant_bot",
+  "website": "https://github.com/sanila2007/Sanila-Ranatunga-s-Assistant-Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
