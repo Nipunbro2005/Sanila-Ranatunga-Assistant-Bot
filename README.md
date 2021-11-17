@@ -1,7 +1,9 @@
 # Sanila-Ranatunga-s-Assistant-Bot
-##You can connect with [Sanila Ranatunga](https://t.me/SanilaRanatunga) using this bot😉😉
+You can connect with [Sanila Ranatunga](https://t.me/SanilaRanatunga) using this bot😉😉
+<img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
-### Reach me on Telegram [Sanila's Assistant Bot](http://t.me/songdownload597_bot)
+
+## Reach me on Telegram [Sanila's Assistant Bot](http://t.me/songdownload597_bot)
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/88930336?s=400&u=5b52cfdd88321f759fc968a517bcc08b18e7a968&v=4">
 
