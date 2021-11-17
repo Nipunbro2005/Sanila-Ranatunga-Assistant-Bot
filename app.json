@@ -1,9 +1,9 @@
 {
   "name": "Sanila's Assistant Bot",
-  "description": "A telegram Powerful assitant bot ",
+  "description": "A telegram bot To Download Youtube Files ",
   "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
   "keywords": [
-    "Telegram","Assitant Bot"
+    "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/sanila2007/Sanila-Ranatunga-Assistant-Bot",
   "success_url": "https://t.me/sanilaassistant_bot",
