@@ -3,7 +3,7 @@ You can connect with [Sanila Ranatunga](https://t.me/SanilaRanatunga) using this
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
 
-## Reach me on Telegram [Sanila's Assistant Bot](http://t.me/anilaassistant_bot)
+## Reach me on Telegram [Sanila's Assistant Bot](http://t.me/sanilaassistant_bot)
 <p align="center">
   <img src="https://telegra.ph/file/ad47e2b8735f8812359d9.jpg">
 
