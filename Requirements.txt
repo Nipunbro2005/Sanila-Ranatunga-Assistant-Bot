@@ -1,0 +1,3 @@
+python-telegram-bot
+pyTelegramBotAPI
+Pip 21.2.3
