@@ -20,13 +20,13 @@ The easiest way to deploy this Assistant Bot  <br><br>
 <h1>Screenshots📸</h1>
 
 <p align="left">
-  <img src="https://telegra.ph/file/66043da87ed608679a137.jpg">
+  <img src="https://telegra.ph/file/015e01973e493df2d2b14.jpg">
   
 <p align="left">
-  <img src="https://telegra.ph/file/62bae6f61c3d4b0c237c5.jpg">
+  <img src="https://telegra.ph/file/1831253df83376d6c7afe.jpg">
   
 <p align="left">
-  <img src="https://telegra.ph/file/73e2773a20c7daa8d1e50.jpg">
+  <img src="https://telegra.ph/file/6a7a937b8ab6563d2ef0c.jpg">
   
 ## How to use the bot
  
