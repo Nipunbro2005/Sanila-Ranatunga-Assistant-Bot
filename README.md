@@ -12,7 +12,7 @@ You can connect with [Sanila Ranatunga](https://t.me/SanilaRanatunga) using this
 This Assistant bot can help to solve there problems in seconds without connecting with [Sanila Ranatunga](https://t.me/SanilaRanatunga). If you have problems in [Sanila's](https://t.me/SanilaRanatunga) bots you can settle those problems using this Assistant bot🤗😋❤
 
   
-<h1>Changelog😎</h1>
+<h2>Changelog</h2>
 
 <b>v0.2</b>
 
