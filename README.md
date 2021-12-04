@@ -34,7 +34,7 @@ The easiest way to deploy this Assistant Bot  <br><br>
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanila2007/Sanila-Ranatunga-Assistant-Bot)
   
  
-<h1>Screenshots📸</h1>
+<h1>Screenshots📸(Latest Version)</h1>
 
 <p align="left">
   <img src="https://telegra.ph/file/015e01973e493df2d2b14.jpg">
