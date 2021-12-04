@@ -10,6 +10,23 @@ You can connect with [Sanila Ranatunga](https://t.me/SanilaRanatunga) using this
 
 # What is this telegram assistant bot can do?
 This Assistant bot can help to solve there problems in seconds without connecting with [Sanila Ranatunga](https://t.me/SanilaRanatunga). If you have problems in [Sanila's](https://t.me/SanilaRanatunga) bots you can settle those problems using this Assistant bot🤗😋❤
+
+  
+<h1>Changelog😎</h1>
+
+<b>v0.2</b>
+
+ - Changed the interface much attractive
+ - What's new changed to Changelog
+ - Fixed problem in 12(Song downloader)
+ - Added time also
+ - Minor bugs fixes
+
+<b>v0.1</b>
+
+ - Added Some Commands
+ - Made much easier to use
+ - Improved Chat Facilities
   
 ### Deploy to Heroku 🏃‍♂
 
