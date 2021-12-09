@@ -5,14 +5,11 @@ def sample_responses(input_text):
     user_message = str(input_text).lower()
 
     if user_message in ("1"):
-        return "I'm the Official Assistant Bot of @SanilaRanatunga😎🔥\n\n" \
+        return "I'm the Official Assistant Bot of Sanila Ranatunga😎🔥\n\n" \
                "I can help you to solve your problems without connecting with Sanila. /help"
 
     if user_message in ("2"):
-        return "Sometimes @SanilaRanatunga won't either reply or read the messages because " \
-               "he always tries to be aware from spam. " \
-               "So you have a chance to send me your messages and " \
-               "I will send it to Sanila. Later he will reply to your msg soon."
+        return "Ok\n\nSend me the msg and I will send it to Sanila😏"
 
     if user_message in ("3"):
         return "Thanks for using my bots😋❤\n\n" \
@@ -42,7 +39,7 @@ def sample_responses(input_text):
                " -Improved Chat Facilities\n"
 
     if user_message in ("7"):
-        return "Oops....\nThis facility isn't here yet. This will be come in next feature update"
+        return "Mathematics Game®\n\n𝕐𝕠𝕦𝕣 𝕘𝕒𝕞𝕖 𝕚𝕤 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕠𝕒𝕕𝕚𝕟𝕘..."
 
     if user_message in ("8"):
         return "Here's the Source Code👇👇\n\nhttps://github.com/sanila2007/Sanila-Ranatunga-Assistant-Bot"
@@ -84,4 +81,4 @@ def sample_responses(input_text):
 
         return str(date_time)
 
-    return "Your message has been sent to @SanilaRanatunga✨"
+    return "Your message has been sent to Sanila Ranatunga✨"
