@@ -12,12 +12,12 @@ def start_command(update, context):
 def help_command(update, context):
     update.message.reply_text("I can help you to connect with Sanila within seconds\n\n"
                               "1 - Who am I\n"
-                              "2 - To connect with @SanilaRanatunga\n"
-                              "3 - To report bugs bots\n"
+                              "2 - To connect with Sanila Ranatunga\n"
+                              "3 - Report bugs\n"
                               "4 - To know how to use the Sanila's bots\n"
                               "5 - Sanila's Github Profile\n"
                               "6 - Changelog\n"
-                              "7 - Let's play a game\n"
+                              "7 - Game\n"
                               "8 - Source Code\n\n"
                               "🛑Just send me the number that you want to know\n"
                               "🛑Don't send texts because you won't get correct results")
