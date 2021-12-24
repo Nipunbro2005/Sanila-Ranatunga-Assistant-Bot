@@ -14,7 +14,27 @@ This Assistant bot can help to solve there problems in seconds without connectin
   
 <h2>Changelog</h2>
 
-<b>v0.2</b>
+🆅<b>0.6</b>
+
+ - Fixed errors in v0.5
+ - Made much easier to use
+ - Changed the welcome msg
+ - Removed the game
+ 
+🆅<b>0.5</b>
+ 
+ - Bug fixes and optimizations
+ 
+🆅<b>0.4</b>
+
+ - Fixed problem in game
+ - Changed the interface
+ 
+🆅<B>0.3</b>
+
+ - Added time (US Time)
+ 
+🆅<b>0.2</b>
 
  - Changed the interface much attractive
  - What's new changed to Changelog
@@ -22,7 +42,7 @@ This Assistant bot can help to solve there problems in seconds without connectin
  - Added time also
  - Minor bugs fixes
 
-<b>v0.1</b>
+🆅<b>0.1</b>
 
  - Added Some Commands
  - Made much easier to use
