@@ -5,21 +5,55 @@ def sample_responses(input_text):
     user_message = str(input_text).lower()
 
     if user_message in ("1"):
-        return "𝕊𝕒𝕟𝕚𝕝𝕒'𝕤 𝔸𝕤𝕤𝕚𝕤𝕥𝕒𝕟𝕥 𝔹𝕠𝕥\n𝕍𝕖𝕣𝕤𝕚𝕠𝕟: 𝟘.𝟝𝕧\n©𝟚𝟘𝟚𝟙"
-
-
-    if user_message in ("2"):
         return "𝗔𝗯𝗼𝘂𝘁 𝗦𝗮𝗻𝗶𝗹𝗮\n\n" \
                "❖ Name : Sanila Ranatunga😎\n\n" \
                "❖ Age : 14 Years (2021) 🙃\n\n" \
-               "❖ Birthday : 2007.09.01\n\n" \
+               "❖ Birthday : 09.01.2007 (2021)\n\n" \
                "❖ From : Sri Lanka🇱🇰\n\n" \
                "❖ Skills : Programmer , Developer😏\n\n" \
                "❖ Ambition : Be a software engineer😊\n\n" \
-               "❖ Programming Languages : Python🙃\n"
+               "❖ Programming Languages : Python, HTML🙃\n"
+
+    if user_message in ("2"):
+        return "𝐂𝐡𝐚𝐧𝐠𝐞𝐥𝐨𝐠\n\n" \
+               "🆅0.6\n" \
+               " -Fixed errors in v0.5\n" \
+               " -Made much easier to use\n" \
+               " -Changed the welcome msg\n" \
+               " -Removed the game\n\n" \
+               "🆅0.5\n" \
+               " -Bug fixes and optimizations\n\n" \
+               "🆅0.4\n" \
+               " -Fixed problem in game\n" \
+               " -Changed the interface\n\n" \
+               "🆅0.3\n" \
+               " -Added time (US Time)\n\n" \
+               "🆅0.2\n" \
+               " -Changed the interface much attractive\n" \
+               " -What's new changed to Changelog\n" \
+               " -Fixed problem in 12 (Song downloader)\n" \
+               " -Added time also\n" \
+               " -Minor bugs fixes\n\n" \
+               "🆅0.1\n" \
+               " -Added Some Commands\n" \
+               " -Made much easier to use\n" \
+               " -Improved Chat Facilities\n"
+
+    if user_message in ("3"):
+        return "Here's the github profile👇\n\nhttps://github.com/sanila2007"
+
+    if user_message in ("4"):
+        return "Don't be shy, send me your feedback❤"
+
+    if user_message in ("5"):
+        return "Send me your problem. Your bugs reports helps a " \
+               "lot to make those very powerful."
 
     if user_message in ("6"):
-        return "This is your time❤\n\nSend me your feedback🔥 "
+        return "Bot help Centre\n\n" \
+               "10 - How to use the bots\n" \
+               "11 - Not Responding error in bots\n" \
+               "12 - Always receiving error messages in bots\n\nChoose your problem and send me the number🔥"
 
     if user_message in ("10"):
         return "13 - Youtube Video Download Bot\n" \
@@ -28,46 +62,11 @@ def sample_responses(input_text):
                "16 - Chat bot\n\n" \
                "Choose the bot and send me the number"
 
-    if user_message in ("5"):
-        return "Here's the github profile👇\n\nhttps://github.com/sanila2007"
-
-    if user_message in ("3"):
-        return "Changelog\n\n" \
-               "v0.5\n" \
-               " -Bug fixes and optimizations\n\n" \
-               "v0.4\n" \
-               " -Fixed problem in game\n" \
-               " -Changed the interface\n\n" \
-               "v0.3\n" \
-               " -Added time (US Time)\n\n" \
-               "v0.2\n" \
-               " -Changed the interface much attractive\n" \
-               " -What's new changed to Changelog\n" \
-               " -Fixed problem in 12 (Song downloader)\n" \
-               " -Added time also\n" \
-               " -Minor bugs fixes\n\n" \
-               "v0.1\n" \
-               " -Added Some Commands\n" \
-               " -Made much easier to use\n" \
-               " -Improved Chat Facilities\n"
-
-    if user_message in ("8"):
-        return "Help Centre\n\n" \
-               "10 - How to use the bots\n" \
-               "11 - Not Responding error in bots\n" \
-               "12 - Always receiving error messages in bots\n\nChoose your problem and send me the number🔥"
-
     if user_message in ("11"):
-        return "That will be a problem in server🥱\nWe will settle that problem soon😎\nThank you❤"
+        return "That will be a problem in server. We will settle that problem soon. Thank you❤"
 
     if user_message in ("12"):
         return "Try again after 1 day and it will be automatically settled😉"
-
-    if user_message in ("4"):
-        return "𝕃𝕠𝕒𝕕𝕚𝕟𝕘..."
-
-    if user_message in ("8"):
-        return "Here's the Source Code👇👇\n\nhttps://github.com/sanila2007/Sanila-Ranatunga-Assistant-Bot"
 
     if user_message in ("13"):
         return "Youtube Video Downloader🎞\n\n" \
@@ -100,9 +99,6 @@ def sample_responses(input_text):
                "⭕️Second click the /help command and you will receive a msg that how to use that bot.\n\n" \
                "Enjoy your Chat Bot🤗\n\nHere's the bot👇\nhttps://t.me/useful_powerful_chat_bot"
 
-    if user_message in ("7"):
-        return "Send me the problems in Sanila's bots. Your bugs reports helps a " \
-               "lot to make those very powerful. Don't be shy, let's tell😉🤗😋"
 
     if user_message in ("time", "time"):
         now = datetime.now()
@@ -110,4 +106,4 @@ def sample_responses(input_text):
 
         return str(date_time)
 
-    return "Your message has been sent to Sanila Ranatunga✨"
+    return "Please wait a While🚶‍♂\n\nYour msg has been sent to Sanila✨"
