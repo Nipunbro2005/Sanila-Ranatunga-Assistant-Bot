@@ -14,7 +14,7 @@ def start_command(update, context):
     update.message.reply_sticker("CAACAgIAAxkBAAEL-PVg88ZbCowyEfg34PS3ugqHR-smRgACVQADr8ZRGmTn_PAl6RC_HgQ")
     update.message.reply_text("𝐒𝐚𝐧𝐢𝐥𝐚'𝐬 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐁𝐨𝐭\n\n" \
                               "🙋‍♂Hello Fr" \
-                              "iends , \033[1mThis is Sanila's Telegram Assistant bot™." \
+                              "iends , \033[ 1mThis is Sanila's Telegram Assistant bot™." \
                               " This bot " \
                               "was created to collect your feedbacks, bugs and ideas about Sanila's bots😊. /help" \
                               "\n\nThese are the bots that created by Sanila🙇‍♂" \
