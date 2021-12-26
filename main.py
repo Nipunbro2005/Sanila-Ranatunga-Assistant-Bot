@@ -11,10 +11,9 @@ print("Bot Started.....")
 
 
 def start_command(update, context):
-    update.message.reply_sticker("https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;")
     update.message.reply_text("𝐒𝐚𝐧𝐢𝐥𝐚'𝐬 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐁𝐨𝐭\n\n" \
                               "🙋‍♂Hello Fr" \
-                              "iends , This is Sanila's Telegram Assistant bot™." \
+                              "iends , \033[1mThis is Sanila's Telegram Assistant bot™." \
                               " This bot " \
                               "was created to collect your feedbacks, bugs and ideas about Sanila's bots😊. /help" \
                               "\n\nThese are the bots that created by Sanila🙇‍♂" \
